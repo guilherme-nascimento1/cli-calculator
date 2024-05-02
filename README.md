@@ -1,4 +1,15 @@
-# Calculator CLI
+# How to run the project:
+
+Perform the command:
+- Git clone https://github.com/guilherme-nascimento1/cli-calculator.git
+
+Install dependencies with "npm install";
+
+And run the project using the command:
+
+node dist/index.js
+
+# Calculator CLI - TEST
 
 **Tier:** 2-Intermediate
 
